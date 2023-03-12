@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SY-cignature/static/css/main.073c9b0a.css",
-    "main.js": "/SY-cignature/static/js/main.0451a2ab.js",
+    "main.js": "/SY-cignature/static/js/main.516db758.js",
     "static/js/787.0c3f432a.chunk.js": "/SY-cignature/static/js/787.0c3f432a.chunk.js",
     "index.html": "/SY-cignature/index.html",
     "main.073c9b0a.css.map": "/SY-cignature/static/css/main.073c9b0a.css.map",
-    "main.0451a2ab.js.map": "/SY-cignature/static/js/main.0451a2ab.js.map",
+    "main.516db758.js.map": "/SY-cignature/static/js/main.516db758.js.map",
     "787.0c3f432a.chunk.js.map": "/SY-cignature/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0451a2ab.js"
+    "static/js/main.516db758.js"
   ]
 }
